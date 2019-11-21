@@ -7,7 +7,7 @@ At the competition, teams use programmable calculators, pencil, pen, and paper t
 
 The message contained in each cipher text indicates the location of the next cipher text in the scavenger hunt across the ASU campus.
 
-I participated in the ASU CryptoRally in 2016, 2017, and 2018. I placed 2nd in 2017, 1st in 2018, and 1st in 2019.
+I participated in the ASU CryptoRally in 2016, 2017, 2018, and 2019. I placed 2nd in 2017, 1st in 2018, and 1st in 2019.
 
 I wrote most of this code during my sophomore year of high school in 2016.
 
